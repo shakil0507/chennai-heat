@@ -2,6 +2,12 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 
+streamlit
+pandas
+matplotlib
+openpyxl
+
+
 st.set_page_config(page_title="Chennai Risk Chatbot", page_icon="🧠")
 st.title("🧠 Chennai Risk Chatbot")
 st.write("Ask me about accident, **air pollution, **crime, **heat, **flood,*population, **riskfactor data!")
